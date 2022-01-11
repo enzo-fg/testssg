@@ -2,5 +2,8 @@
     "Name": "RespawnAnchor",
     "BlastResistance" : 7,
     "WaterLogged": false,
-    "LightEmission": 3
+    "LightEmission": 3,
+    "CraftingRecipi": ["CryingObsidian", "CryingObsidian", "CryingObsidian",
+                       "GlowStone", "GlowStone", "GlowStone",
+                       "CryingObsidian", "CryingObsidian", "CryingObsidian"]
 }
