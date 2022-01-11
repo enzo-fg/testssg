@@ -1,9 +1,19 @@
-{
-    "Name": "RespawnAnchor",
-    "BlastResistance" : 7,
-    "WaterLogged": false,
-    "LightEmission": 3,
-    "CraftingRecipi": ["CryingObsidian", "CryingObsidian", "CryingObsidian",
-                       "GlowStone", "GlowStone", "GlowStone",
-                       "CryingObsidian", "CryingObsidian", "CryingObsidian"]
+{"blocks": [{
+        "Name": "RespawnAnchor",
+        "BlastResistance" : 7,
+        "WaterLogged": false,
+        "LightEmission": 3,
+        "CraftingRecipi": ["CryingObsidian", "CryingObsidian", "CryingObsidian",
+                           "GlowStone", "GlowStone", "GlowStone",
+                           "CryingObsidian", "CryingObsidian", "CryingObsidian"]
+    }, 
+    {
+        "Name" : "BlueIce", 
+        "BlastResistance": 6,
+        "WaterLogged": false,
+        "LightEmission": 0,
+        "CraftingRecipi": ["PackedIce", "PackedIce", "PackedIce",
+                           "PackedIce", "PackedIce", "PackedIce",
+                           "PackedIce", "PackedIce", "PackedIce"]
+    }]
 }
